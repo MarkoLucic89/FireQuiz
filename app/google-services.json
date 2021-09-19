@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "428139428537",
+    "project_id": "firequiz-91e23",
+    "storage_bucket": "firequiz-91e23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428139428537:android:63efb98533e69c0a173968",
+        "android_client_info": {
+          "package_name": "com.example.firequiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428139428537-0dkffhcstq7epfmgdpc24b0jqvqej92e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmRxgt6wCeQRsVzkYN0_R5RzR1x5KtKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428139428537-0dkffhcstq7epfmgdpc24b0jqvqej92e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
